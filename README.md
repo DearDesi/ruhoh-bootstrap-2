@@ -8,7 +8,7 @@ How to use this theme
 
 1. Choose the latest download from this page:
   * https://github.com/DearDesi/ruhoh-bootstrap-2/releases
-2. Move the `ruhoh-boostrap-2` folder into your blog directory, such as ~/Desktop/blog/themes/.
+2. Move the `ruhoh-boostrap-2` folder into your blog directory, such as `~/Desktop/blog/themes/`.
 
 ### Example
 
