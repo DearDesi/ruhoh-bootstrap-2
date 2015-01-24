@@ -6,7 +6,8 @@ You can use it with Desirae by downloading it and putting it into your themes fo
 How to use this theme
 -------
 
-1. Choose the latest download from this page: https://github.com/DearDesi/ruhoh-bootstrap-2/releases
+1. Choose the latest download from this page:
+  * https://github.com/DearDesi/ruhoh-bootstrap-2/releases
 2. Move the `ruhoh-boostrap-2` folder into your blog directory, such as ~/Desktop/blog/themes/.
 
 ### Example
